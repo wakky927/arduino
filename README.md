@@ -8,7 +8,7 @@ LFCで研究にArduinoを用いる際，すぐにでも実験に導入できる�
 
 迷ったらとりあえず [Arduino Uno](https://store-usa.arduino.cc/collections/boards/products/arduino-uno-rev3) を選べば良いかと．また互換品もあるので購入前に軽く調べるのがおすすめ．
 
-###Python
+### Python
 
 * python 3.8
 
